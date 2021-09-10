@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* discription */
+
+.Aboutimg {
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    margin: auto;
+}
+
+.selfintro {
+    width: 60%;
+    height: 250px;
+    margin: auto;
+}
+
+.myintro {
+    width: 30%;
+    height: 250px;
+    float: left;
+}
+
+
+/* Myimg */
+
+.myimg {
+    width: 200px;
+    height: 150px;
+    margin-top: 30px;
+}
+
+
+/* Aboutme */
+
+.aboutme {
+    width: 60%;
+    height: 200px;
+    padding-top: 30px;
+    float: right;
+}
+
+.textcenter {
+    text-align: center;
+}
+
+.fgray {
+    color: #9e9e9e75;
+}
